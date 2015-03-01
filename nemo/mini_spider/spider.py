@@ -14,4 +14,4 @@ class Spider(object):
         '''
         Constructor
         '''
-        print("hello")  
+        print("hello")
